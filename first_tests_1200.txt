@@ -1,3 +1,5 @@
+Size of dataset = 1200 example-label pairs.
+
 Running 4-fold cross validation tests for k = [3, 5, 7, 9, 11, 13, 15]...
 
 Implementing 4-fold cross validation for k = 3:
