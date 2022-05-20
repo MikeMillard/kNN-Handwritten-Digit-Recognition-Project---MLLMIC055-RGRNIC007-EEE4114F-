@@ -41,6 +41,10 @@ Implementing 4-fold cross validation for k = 13:
 k value: 13, training datasets: D2, D3, D4, validation dataset: D1, accuracy: 86.04%
 k value: 13, training datasets: D1, D3, D4, validation dataset: D2, accuracy: 86.88%
 k value: 13, training datasets: D1, D2, D4, validation dataset: D3, accuracy: 86.25%
+k value: 13, training datasets: D1, D2, D4, validation dataset: D3, accuracy: 87.07%
+For k = 13 the average accuracy was 86.56%
+
+Implementing 4-fold cross validation for k = 15:
 k value: 15, training datasets: D2, D3, D4, validation dataset: D1, accuracy: 87.29%
 k value: 15, training datasets: D1, D3, D4, validation dataset: D2, accuracy: 88.54%
 k value: 15, training datasets: D1, D2, D4, validation dataset: D3, accuracy: 83.33%
