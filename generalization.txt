@@ -1,0 +1,9 @@
+Testing generalization Performance for optimal k value (k = 5)...
+Example split: 80/20 to training and testing, respectively
+
+Generalization performance: k value: 5, accuracy: 88.75%
+
+Testing generalization Performance for optimal k value (k = 7)...
+Example split: 80/20 to training and testing, respectively
+
+Generalization performance: k value: 7, accuracy: 89.58%
